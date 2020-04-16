@@ -1,0 +1,9 @@
+.bootstrap-test {
+  background: #d1d1d1;
+  padding: 120px 80px;
+}
+
+.bootstrap-test .row > div {
+  border: 2px solid black;
+}
+/*# sourceMappingURL=bootstrap-test.css.map */
